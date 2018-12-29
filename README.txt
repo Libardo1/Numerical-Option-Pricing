@@ -1,1 +1,1 @@
-a jupiter notebook exploring numerical option pricing
+a jupyter notebook exploring numerical option pricing
