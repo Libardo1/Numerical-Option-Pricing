@@ -1,1 +1,0 @@
-a jupyter notebook exploring numerical option pricing
